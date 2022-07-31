@@ -26,7 +26,7 @@ Setup Procedure
 
 ### Live demo
 
-(RNT-Personal-Portfolio)[https://62e67466ab662b4da8cc19dd--serene-frangollo-135efe.netlify.app/] or [https://tinyurl.com/react-rnt-portfolio]
+[RNT-Personal-Portfolio](https://62e67466ab662b4da8cc19dd--serene-frangollo-135efe.netlify.app/) or https://tinyurl.com/react-rnt-portfolio
 
 ## Project setup
 
