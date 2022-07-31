@@ -2,14 +2,14 @@ import React from "react";
 
 const personalInfoContent = [
   { meta: "name", metaInfo: "Rianto" },
-  // { meta: "last name", metaInfo: "Milner" },
+  // { meta: "last name", metaInfo: "RNT" },
   { meta: "Age", metaInfo: "29 Years" },
   { meta: "phone", metaInfo: "+6281315127397" },
   { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "West Nusa Tenggara" },
   { meta: "Nationality", metaInfo: "Indonesia" },
   { meta: "Email", metaInfo: "rianto.rnt@gmail.com" },
-  // { meta: "Skype", metaInfo: " steve.milner" },
+  // { meta: "Skype", metaInfo: " rianto.rnt" },
   { meta: "languages", metaInfo: "Bahasa Indonesia, English" },
 ];
 

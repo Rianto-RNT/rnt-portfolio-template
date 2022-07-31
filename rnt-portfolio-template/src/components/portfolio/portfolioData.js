@@ -9,6 +9,7 @@ import Image8 from "../../assets/img/portfolio/project-8.jpg";
 import Image9 from "../../assets/img/portfolio/project-9.jpg";
 import Image10 from "../../assets/img/portfolio/project-10.jpg";
 import Image11 from "../../assets/img/portfolio/project-11.jpg";
+import Image12 from "../../assets/img/portfolio/project-12.jpg";
 
 const PortfolioData = [
   {
@@ -45,9 +46,9 @@ const PortfolioData = [
   },
   {
     id: 3,
-    type: "slider project",
+    type: "website project",
     image: Image3,
-    tag: [],
+    tag: ["website"],
     delayAnimation: "200",
     modalDetails: [
       {
@@ -95,15 +96,15 @@ const PortfolioData = [
     id: 6,
     type: "mockup project",
     image: Image6,
-    tag: ["website", "mockup"],
+    tag: ["mobile", "mockup"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "website",
-        client: "Themeforest",
-        language: "HTML, CSS, Javascript",
-        preview: "www.pexels.com",
-        link: "https://www.pexels.com",
+        project: "mobile",
+        client: "portfolio",
+        language: "Adobe Photosop",
+        preview: "www.github.com",
+        link: "https://www.github.com",
       },
     ],
   },
@@ -141,17 +142,17 @@ const PortfolioData = [
   },
   {
     id: 9,
-    type: "behence project",
+    type: "web mockup",
     image: Image9,
     tag: ["graphic design", "mockup"],
     delayAnimation: "200",
     modalDetails: [
       {
         project: "website",
-        client: "Behance",
-        language: "HTML, CSS, Javascript",
-        preview: "www.behance.com",
-        link: "https://www.behance.net/ib-themes",
+        client: "Ammar trans Logistic",
+        language: "HTML, CSS, Javascript, Adobe Photoshop",
+        preview: "www.ammartrans.co.id",
+        link: "https://www.ammartrans.co.id/",
       },
     ],
   },
@@ -189,13 +190,13 @@ const PortfolioData = [
   },
   {
     id: 12,
-    type: "behence project",
-    image: Image9,
-    tag: ["graphic design", "mockup"],
+    type: "mockup project",
+    image: Image12,
+    tag: ["mockup"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "website",
+        project: "mockup",
         client: "Behance",
         language: "HTML, CSS, Javascript",
         preview: "www.behance.com",
