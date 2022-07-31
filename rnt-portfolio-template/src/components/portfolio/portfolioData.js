@@ -46,17 +46,17 @@ const PortfolioData = [
   },
   {
     id: 3,
-    type: "website project",
+    type: "Tour and Travel",
     image: Image3,
     tag: ["website"],
     delayAnimation: "200",
     modalDetails: [
       {
         project: "website",
-        client: "Themeforest",
-        language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        client: "portfolio",
+        language: "Node Js, Pug, HTML",
+        preview: "www.heroku.com",
+        link: "https://rian-natours.herokuapp.com/",
       },
     ],
   },
